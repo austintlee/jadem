@@ -1,0 +1,6 @@
+unclassified
+advertising
+birth_death_wedding
+reviews
+commercial_legal_public_notices
+illustrations
